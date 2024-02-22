@@ -1,5 +1,5 @@
 # Simple Image Finder - simpleImageFinder
-A simple image finder using brutalforce algorithm! 
+A simple image finder using brutalforce(pixel by pixel) algorithm! 
 
 Finds a exact match image inside a source image.
 

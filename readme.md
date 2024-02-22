@@ -5,9 +5,10 @@ Finds a exact match image inside a source image.
 
 Made with Java
 
-# UX and Headless
+# UI and Headless
 ## Run as Desktop App (Java Swing)
-//todo add image
+When have no args it opens a Desktop UI
+![altText](example.gif "example") 
 ## Run in Command Line
 //todo add comand example
 

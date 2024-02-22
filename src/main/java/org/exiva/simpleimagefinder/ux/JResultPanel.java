@@ -58,6 +58,7 @@ public class JResultPanel extends JPanel {
 						for (Point p : ps) {
 							resultImage = ImageUtils.drawRectangle(resultImage, p, imgToFind.getWidth(), imgToFind.getHeight(), Color.RED, 1);
 							foundPoints.add(p);
+							System.out.println(p);
 						}
 					}
 					JResultPanel.this.updateImage(resultImage);

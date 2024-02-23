@@ -5,4 +5,16 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>simpleimagefinder</name>
   <description>simple image finder</description>
+  
+  <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>8</source>
+                    <target>8</target>
+                </configuration>
+            </plugin>           
+        </plugins>
+  </build>
 </project>
